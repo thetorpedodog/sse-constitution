@@ -414,12 +414,4 @@ in elections for Primary Officers.
 
 Amendments
 ----------
-Any Active member of the Society may propose an amendment to this constitution.
-The text for the amendment should be presented in writing at the time of its
-proposal. No fewer than two-thirds of the votes must approve the ratification
-amendment, with a minimum of two-thirds of the Society participating in the
-vote.
-
-All amendments added to this constitution shall override and overrule any and
-all statements within this document prior to the addition date of the
-amendment.
+DONGS
